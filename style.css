@@ -4,6 +4,16 @@
   padding: 0;
 }
 
+.main-border {
+  background-image: url("img/background.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .main-img {
   width: 250px;
 }
@@ -23,7 +33,7 @@
   font-weight: 500;
 }
 
-@media screen and (min-width: 200px) {
+@media screen and (min-width: 1200px) {
   .main-border {
     display: none;
   }
@@ -59,6 +69,5 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    margin: 20px 69px;
   }
 }
