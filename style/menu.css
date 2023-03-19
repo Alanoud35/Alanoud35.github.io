@@ -40,7 +40,8 @@ section {
 }
 .select input {
   border: 0;
-  padding: 15px 120px;
+  padding-left: 83px;
+  padding-right: 83px;
   background-color: #43969c;
   color: white;
   font-size: 20px;
