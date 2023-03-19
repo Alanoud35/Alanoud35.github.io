@@ -23,12 +23,12 @@
   font-weight: 500;
 }
 
-@media screen and (min-width: 1200px) {
+@media screen and (min-width: 400px) {
   .main-border {
     display: none;
   }
 }
-@media screen and (max-width: 1000px) {
+@media screen and (max-width: 480px) {
   .desktop {
     display: none;
   }
