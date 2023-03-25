@@ -63,3 +63,13 @@ body {
 #accordion label + input[type="radio"]:checked + .content {
   max-height: 400px;
 }
+@media screen and (min-width: 1200px) {
+  #menu {
+    display: none;
+  }
+}
+@media screen and (max-width: 1000px) {
+  .desktop {
+    display: none;
+  }
+}
