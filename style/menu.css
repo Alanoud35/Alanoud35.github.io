@@ -41,10 +41,9 @@ section {
 .select input {
   justify-content: center;
   align-items: center;
-
   display: flex;
   border: 0;
-  padding: 15px 120px;
+  padding: 10px 110px;
   background-color: #43969c;
   color: white;
   font-size: 20px;
@@ -53,6 +52,9 @@ section {
   transition: 0.5s;
 }
 .guest input {
+  width: 100%;
+}
+.owner input {
   width: 100%;
 }
 .select input:hover {
