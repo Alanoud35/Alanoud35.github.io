@@ -41,19 +41,19 @@ section {
   text-align: center;
 }
 .tx1 {
-  top: 301px;
+  top: 290px;
   left: 49px;
   font-size: 40px;
 }
 .tx2 {
-  top: 378px;
+  top: 368px;
   left: 49px;
-  font-size: 30px;
+  font-size: 32px;
 }
 .img-welcome {
   padding-bottom: 500px;
   width: 400px;
-  padding-left: 40px;
+  padding-left: 20px;
 }
 .btn-btn1 {
   width: 330px;
