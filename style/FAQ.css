@@ -9,17 +9,19 @@ body {
   background: #ffffff;
 }
 #accordion {
-  margin: 100px auto;
+  margin: 20px auto;
   width: 600px;
 }
 .text {
-  margin-bottom: 60px;
   font-size: 30px;
   color: #43969c;
-  margin-top: 170px;
+  margin-top: 10px;
   padding-left: 90px;
 }
 .img {
+  width: 310px;
+  align-items: center;
+  margin-left: 50px;
 }
 #accordion li {
   list-style: none;
